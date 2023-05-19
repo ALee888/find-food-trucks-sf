@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/find-food-trucks-sf/static/css/main.10501141.css",
+    "main.js": "/find-food-trucks-sf/static/js/main.05be4a83.js",
+    "static/media/food-marker.png": "/find-food-trucks-sf/static/media/food-marker.3196dd0120003a34c319.png",
+    "static/media/marker.png": "/find-food-trucks-sf/static/media/marker.fa2f415453c3b6091b96.png",
+    "index.html": "/find-food-trucks-sf/index.html",
+    "main.10501141.css.map": "/find-food-trucks-sf/static/css/main.10501141.css.map",
+    "main.05be4a83.js.map": "/find-food-trucks-sf/static/js/main.05be4a83.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10501141.css",
+    "static/js/main.05be4a83.js"
+  ]
+}
